@@ -1,7 +1,7 @@
 # Agora Video Call Demo
 
 
-This is a python demo for Agora 1-to-1 video call.
+This is a python demo for a simple 1-to-1 Agora video call.
 
 
 
